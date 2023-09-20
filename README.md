@@ -19,4 +19,4 @@
 <p><a href="https://www.buymeacoffee.com/fardeenes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fardeenes" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardeenes7&show_icons=true&locale=en" alt="fardeenes7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fardeenes7&show_icons=true&locale=en" alt="fardeenes7" /></p>
